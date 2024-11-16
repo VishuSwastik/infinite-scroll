@@ -22,6 +22,6 @@ Live Demo :  https://vishuswastik.github.io/infinite-scroll/
 
 API Key
 To use the Unsplash API, you need to replace the placeholder API key in script.js with your own Unsplash API key. You can obtain an API key by signing up at Unsplash Developers.                                             
-const apiKey = "0DJFLHoOOB0403Lwk37QcD_bbGbMJqyTTLu7lysOtiI"; // Replace with your API key
+const apiKey = "  Replace with your API key"; 
 Usage
 Simply scroll down the page to load more images.
